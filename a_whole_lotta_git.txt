@@ -1,0 +1,5 @@
+Question: Why is it called 'Git'?
+
+Question: How can I undo a push and merge into master that I made one night
+          after I lost my mind and coded something really stupid?
+          
