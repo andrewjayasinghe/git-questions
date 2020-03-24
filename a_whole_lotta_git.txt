@@ -1,5 +1,10 @@
 Question: Why is it called 'Git'?
+Answer: Apparently Linus Torvalds confirmed that GIT was named after British slang for a stupid or unpleasant person. I like this definition the most.
 
 Question: How can I undo a push and merge into master that I made one night
           after I lost my mind and coded something really stupid?
+
+Question: How do I check to see if anyone has made any updates to the origin before pushing?
+
+Question: What is the staging area?
           
