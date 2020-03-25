@@ -3,8 +3,13 @@ Answer: Apparently Linus Torvalds confirmed that GIT was named after British sla
 
 Question: How can I undo a push and merge into master that I made one night
           after I lost my mind and coded something really stupid?
+Answer: You can do "git revert [hash]" to undo to a previous commit. This is the safest git "undo" button.
 
 Question: How do I check to see if anyone has made any updates to the origin before pushing?
 
 Question: What is the staging area?
+
+Question: Why do we need a staging area?
+
+
           
